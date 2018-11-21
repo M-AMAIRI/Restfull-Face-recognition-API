@@ -1,5 +1,3 @@
-# Restfull-Face-recognition-API
-Restfull Face recognition API Based On Dlib
 
 
 # Face recognition Restful API Description
